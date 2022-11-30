@@ -3,13 +3,8 @@
 
 - 🔭 I’m currently working on **Python & Cyber Security**
 
-- 🌱 I’m currently learning **Coding & hacking**
-
 - 👯 I’m looking to collaborate on **Memnix**
 
-- 💬 Ask me about **cyber security & crypto**
-
-- ⚡ Fun fact **I'm a nice climber**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
